@@ -29,6 +29,13 @@ header {
   text-align: center;
 }
 
+.deus img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
 .deus h2 {
   color: #003366;
 }
